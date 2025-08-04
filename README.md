@@ -24,3 +24,5 @@ Prestige Level 10: Thematic Items - Gym (First Floor)
 ### Installation:
 
 Use The Simple Framework Mod Manager to install the .zip - viola!
+
+### Credit: [Burnthew1tch](https://next.nexusmods.com/profile/Burnthew1tch?gameId=3617)
